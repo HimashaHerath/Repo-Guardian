@@ -1,0 +1,17 @@
+{
+    "name": "repo-guardian",
+    "version": "1.0.0",
+    "description": "A Discord bot to track and manage GitHub repositories.",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    },
+    "author": "Himasha Herath",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "discord.js": "^14.0.0",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
